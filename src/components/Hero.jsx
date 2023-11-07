@@ -11,7 +11,7 @@ const Hero = () => {
             Front-End Developer
           </p>
           <p className='mt-2 text-lg text-slate-700 capitalize tracking-wide'>
-            This web page still in development...
+          Turning Ideas Into Interactive Reality
           </p>
           <div className='flex gap-x-4 mt-4'>
             <a href='#'>
